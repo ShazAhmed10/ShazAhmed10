@@ -20,6 +20,9 @@ so I can reason about why a system produced an output and whether it's right.
 I'm currently building toward an AI document-processing system with evaluations,
 observability and a React front end.
 
+**Projects**
+- [Cartograph](https://github.com/ShazAhmed10/cartograph): event-driven commerce backend with seven Spring Boot services, Kafka, Redis, OAuth 2.0 and payment webhooks
+
 **Stack:** Java · Spring Boot · Kafka · PostgreSQL · Redis · Docker · Kubernetes · AWS
 
 **Learning:** Python · FastAPI · LLM APIs · React · TypeScript
