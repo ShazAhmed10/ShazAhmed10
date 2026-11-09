@@ -22,6 +22,7 @@ observability and a React front end.
 
 **Projects**
 - [Cartograph](https://github.com/ShazAhmed10/cartograph): event-driven commerce backend with seven Spring Boot services, Kafka, Redis, OAuth 2.0 and payment webhooks
+- [KYC Verification Service](https://github.com/ShazAhmed10/kyc-verification-service): async vendor webhooks, a declarative state machine and an LLM-powered explain endpoint
 
 **Stack:** Java · Spring Boot · Kafka · PostgreSQL · Redis · Docker · Kubernetes · AWS
 
